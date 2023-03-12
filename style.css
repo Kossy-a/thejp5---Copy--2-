@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Halant:wght@500&display=swap');
+.title{
+    text-align: center;
+}
+.brother, tr, th, td{
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 400px;
+} 
+.brother, td {
+    text-align: center;
+    height: 30px;
+}
+.table{
+    height: 30px;
+    font-family: 'Halant', serif;
+}
+
+tr, td {
+    font-family: 'Manrope', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
